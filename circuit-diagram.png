@@ -1,0 +1,13 @@
+| Component    | ESP32 pin |
+| ------------ | --------- |
+| HC-SR04 TRIG | GPIO 5    |
+| HC-SR04 ECHO | GPIO 18   |
+| IR sensor    | GPIO 19   |
+| Buzzer       | GPIO 2    |
+| LED          | GPIO 4    |
+| MQ-3         | GPIO 34   |
+| GPS TX       | GPIO 16   |
+| GPS RX       | GPIO 17   |
+| ADXL345 SDA  | GPIO 21   |
+| ADXL345 SCL  | GPIO 22   |
+| LCD I²C      | I²C bus   |
